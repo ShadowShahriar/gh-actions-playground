@@ -1,0 +1,25 @@
+{
+	"name": "gh-actions-playground",
+	"version": "1.0.0",
+	"description": "Learning how to use github actions to ease development workflow.",
+	"main": "index.js",
+	"scripts": {
+		"pretest": "echo \"This should run before testing\"",
+		"test": "echo \"Testing\"",
+		"posttest": "echo \"This should run if the tests were passed successfully\""
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ShadowShahriar/gh-actions-playground.git"
+	},
+	"keywords": [
+		"github",
+		"actions"
+	],
+	"author": "S. Shahriar <shadowshahriar.dev@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ShadowShahriar/gh-actions-playground/issues"
+	},
+	"homepage": "https://github.com/ShadowShahriar/gh-actions-playground#readme"
+}
