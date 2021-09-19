@@ -1,6 +1,6 @@
 {
 	"name": "gh-actions-playground",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Learning how to use github actions to ease development workflow.",
 	"main": "index.js",
 	"scripts": {
