@@ -8,5 +8,6 @@ Checklist:
 Advanced Lessons:
   ✔ Ignore files and directories in tags and releases @done(21-09-25)
   ■ Using pre-commit hooks (with Husky)
-  ■ Setting up Gulp and run a Gulp task
+  ✔ Setting up Gulp and run a Gulp task @done(21-09-26)
+  ■ Installing loads of node modules
   ■ Rendering markdown with GitHub pages
