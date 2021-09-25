@@ -1,6 +1,6 @@
 # @format
 
-name: Continuous Integration
+name: Running Gulp
 
 on:
     push:
@@ -14,4 +14,4 @@ jobs:
             - uses: actions/setup-node@v1
               with:
                   node-version: 14
-            - run: npm run test
+            - run: gulp task
