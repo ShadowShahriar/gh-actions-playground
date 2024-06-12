@@ -24,6 +24,6 @@
 	"homepage": "https://github.com/ShadowShahriar/gh-actions-playground#readme",
 	"devDependencies": {},
 	"dependencies": {
-		"gulp": "^4.0.2"
+		"gulp": "^5.0.0"
 	}
 }
